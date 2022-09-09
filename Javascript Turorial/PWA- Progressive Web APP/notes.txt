@@ -1,0 +1,1 @@
+1) Service worker is a js file, which keeps running independent from main react application, it is ued to handle how app works in offline mode, push notifications
